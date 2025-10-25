@@ -1,0 +1,24 @@
+[
+  {
+    "id": "1",
+    "ts": 1690000000000,
+    "player": "PlayerOne",
+    "itemName": "Quesadilla Crocodila",
+    "itemNameAr": "كساديا كروكوديلا",
+    "perSecond": "$22.5M/s",
+    "totalWorth": "$700M",
+    "serverLink": "https://discord.gg/your_invite_here",
+    "thumbnail": "https://i.imgur.com/your-image1.png"
+  },
+  {
+    "id": "2",
+    "ts": 1690000001000,
+    "player": "PlayerTwo",
+    "itemName": "Golden Skull",
+    "itemNameAr": "الجمجمة الذهبية",
+    "perSecond": "2.7M/s",
+    "totalWorth": "$2.7B",
+    "inviteChannelId": "1431646537045381170", 
+    "thumbnail": "https://i.imgur.com/your-image2.png"
+  }
+]
